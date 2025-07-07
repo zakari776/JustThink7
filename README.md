@@ -35,7 +35,6 @@ It offers a hybrid between traditional `malloc()`/`free()` and a software-level 
                                            ↓
                             [On reaccess → Loaded back to RAM]
 ```
-# License
 
 # 📦 SmartCacheAlloc
 **Memory Pressure Mitigation via NVMe Offloading**
